@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2F713239-200A-46A2-BD64-101CB44C083E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassMetodDemo/Concrete/CustomerManager.cs">
+    <Files>
+      <File FileName="ClassMetodDemo/Program.cs" Line="15" Column="60" />
+      <File FileName="ClassMetodDemo/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="ClassMetodDemo/Abstract/IEntity.cs" Line="1" Column="1" />
+      <File FileName="ClassMetodDemo/Abstract/ICustomerService.cs" Line="14" Column="1" />
+      <File FileName="ClassMetodDemo/Concrete/CustomerManager.cs" Line="51" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassMetodDemo" expanded="True">
+            <Node name="ClassMetodDemo" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="CustomerManager.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassMetodDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
